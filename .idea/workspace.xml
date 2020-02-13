@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ede7748e-746e-4044-8c4e-f99f75e83224" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bancodedados.iml" beforeDir="false" afterPath="$PROJECT_DIR$/bancodedados.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>9xxxxxxx9</find>
+      <find>8xxxxxxx8</find>
+      <find>0y</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>123456789</replace>
+      <replace>222256789</replace>
+      <replace>98</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+        <option value="$PROJECT_DIR$/../02_teste_componentes/componentes.iml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W5OuzJuvdEFZtD9KamJH4lMUWH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="ignore.virus.scanning.warn.message" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="integracao.bancodedados.contatos" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.All in bancodedados (3)">
+    <configuration name="All in bancodedados (1)" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="bancodedados" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in bancodedados (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bancodedados" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in bancodedados (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bancodedados" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContatosRepositoryIntegrationQueryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bancodedados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="integracao.bancodedados.contatos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="integracao.bancodedados.contatos" />
+      <option name="MAIN_CLASS_NAME" value="integracao.bancodedados.contatos.ContatosRepositoryIntegrationQueryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContatosRepositoryIntegrationQueryTest.deveRetornarTodosOsContatosOrdenadosEmOrdemCrescente" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bancodedados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="integracao.bancodedados.contatos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="integracao.bancodedados.contatos" />
+      <option name="MAIN_CLASS_NAME" value="integracao.bancodedados.contatos.ContatosRepositoryIntegrationQueryTest" />
+      <option name="METHOD_NAME" value="deveRetornarTodosOsContatosOrdenadosEmOrdemCrescente" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContatosRepositoryIntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bancodedados" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="integracao.bancodedados.contatos.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="integracao.bancodedados.contatos" />
+      <option name="MAIN_CLASS_NAME" value="integracao.bancodedados.contatos.ContatosRepositoryIntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BancodedadosApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="bancodedados" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="integracao.bancodedados.BancodedadosApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in bancodedados (3)" />
+        <item itemvalue="JUnit.All in bancodedados (2)" />
+        <item itemvalue="JUnit.ContatosRepositoryIntegrationQueryTest" />
+        <item itemvalue="JUnit.ContatosRepositoryIntegrationQueryTest.deveRetornarTodosOsContatosOrdenadosEmOrdemCrescente" />
+        <item itemvalue="JUnit.ContatosRepositoryIntegrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ede7748e-746e-4044-8c4e-f99f75e83224" name="Default Changelist" comment="" />
+      <created>1574879512383</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574879512383</updated>
+      <workItem from="1574879517952" duration="2071000" />
+      <workItem from="1575374259984" duration="879000" />
+      <workItem from="1576240371769" duration="2910000" />
+      <workItem from="1576267100090" duration="6153000" />
+      <workItem from="1578436220151" duration="1493000" />
+      <workItem from="1578437802284" duration="184000" />
+      <workItem from="1578438015124" duration="2144000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
